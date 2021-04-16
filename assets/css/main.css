@@ -76,7 +76,7 @@ h1, h2, h3, h4, h5, h6 {
   white-space: nowrap;
 }
 
-/*active nav and animation on hov3er*/
+/*active nav and animation on hover*/
 .navigator a:hover, .navigator .active > a, .navigator li:hover > a {
   text-decoration: none;
   color: #fff;
@@ -251,7 +251,7 @@ h1, h2, h3, h4, h5, h6 {
 #first_look {
   width: 100%;
   height: 100vh;
-  background: url("../img/about-profile.jpg") top center;
+  background: url("../img/bg.jpg") top center;
   background-size: cover;
 }
 
